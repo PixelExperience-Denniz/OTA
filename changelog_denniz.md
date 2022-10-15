@@ -1,5 +1,5 @@
-# September Release (18/09/22)
-- September security patch
+# October Release (16/10/22)
+- October security patch
 - Updated translations
 - Other fixes and improvements
 - Synced with latest pixel experience sources

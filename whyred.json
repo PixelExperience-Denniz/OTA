@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "version": "twelve_plus",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "SakilMondal",
+            "name": "Abdul Sakil Mondal"
+        }
+    ],
+    "donate_url": "https://www.paypal.me/SakilMondal",
+    "website_url": "https://www.pling.com/p/1621153/",
+    "news_url": "https://t.me/SakilMondalsChat",
+    "datetime": 1672129333,
+    "filename": "PixelExperience_Plus_whyred-12.1-20221227-0823-UNOFFICIAL.zip",
+    "id": "8d96c9ac39b4b90671b0e0b8a8b8584b",
+    "size": 1397437757,
+    "url": "https://master.dl.sourceforge.net/project/redmi-note-5-pro-updates/Whyred/PixelExperience/A12.1/PixelExperience_Plus_whyred-12.1-20221227-0823-UNOFFICIAL.zip",
+    "filehash": "8d96c9ac39b4b90671b0e0b8a8b8584b"
+}

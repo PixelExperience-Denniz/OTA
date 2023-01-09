@@ -1,13 +1,8 @@
-# December Release (27/12/22)
-- December security patch
-- Added ability to remove space under keyboard
-- Added ability to use 4G icon instead of LTE icon
-- Added support for new Game Mode
-- Added Black theme support
-- Added reTicker support
-- Added MatLog app (handy for taking logs without root)
-- Added OTA support
+# January Release (09/01/2023)
+- January security patch
+- Removed unnecessary gapps bloatwares
 - Other fixes and improvements
 
 Note: 
 - Use Pixel Experience recovery only.
+- If you are using previous build then you can dirty flash.
